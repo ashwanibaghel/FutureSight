@@ -1,0 +1,40 @@
+.predict-career {
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .predict-career h1 {
+    font-size: 2.5rem;
+    color: #34495e;
+  }
+  
+  .predict-career input {
+    padding: 12px;
+    margin: 12px 0;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 100%;
+  }
+  
+  .predict-career button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    font-size: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .predict-career button:hover {
+    background-color: #0056b3;
+  }
+  
+  .predict-career p {
+    color: #7f8c8d;
+    font-size: 1.2rem;
+  }
+  

@@ -1,0 +1,30 @@
+input {
+    padding: 12px;
+    margin: 12px 0;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 100%;
+  }
+  
+  button {
+    background-color: #007bff;
+    justify-content: center;
+    color: white;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    font-size: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  

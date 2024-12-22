@@ -1,0 +1,36 @@
+.achievements-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    min-height: 100vh;
+  }
+  
+  .achievements-container h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .achievements-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .achievements-container li {
+    margin: 20px auto;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    padding: 20px;
+  }
+  
+  .achievements-container li h3 {
+    font-size: 1.5rem;
+    color: #444;
+  }
+  
+  .achievements-container li p {
+    font-size: 1rem;
+    color: #777;
+  }
+  
