@@ -1,0 +1,52 @@
+/* Font import */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+/* Apply the font globally */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  font-weight: 600;
+}
+
+input, button {
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+  cursor: pointer;
+}
+
+input:focus, button:focus {
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Simple container to center content */
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+input {
+  padding: 12px 20px;
+  margin: 10px;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+button {
+  padding: 12px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
